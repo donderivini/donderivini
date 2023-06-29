@@ -4,7 +4,6 @@
 ###           Me chamo Vinícius e estou me graduando em Ciência da Computação pela Barão de Mauá e me especializando em JAVA pela FUNTEC.
 ###           Os projetos arquivados neste perfil, por enquanto são trabalhos e treinamentos desenvolvidos na faculdade ou no curso, portanto, no momento, são apenas códigos simples, que estou publicando aqui para registrar meu aprendizado e evolução! 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **donderivini/donderivini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
