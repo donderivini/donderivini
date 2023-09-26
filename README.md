@@ -1,7 +1,7 @@
 ##  ⚠️⚠️PERFIL EM CONSTRUÇÃO⚠️⚠️
 
 ### Hi there 👋
-### Me chamo Vinícius e estou me graduando em Ciência da Computação pela Barão de Mauá e me especializando em JAVA pela FUNTEC.
+### Me chamo Vinícius e estou me graduando em Análise e desenvolvimento de Sistemas pela UNIP e me especializando em JAVA pela FUNTEC.
 ### Os projetos arquivados neste perfil, por enquanto são trabalhos e treinamentos desenvolvidos na faculdade ou no curso, portanto, no momento, são apenas códigos simples, que estou publicando aqui para registrar meu aprendizado e evolução! 
 
 <div>
